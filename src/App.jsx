@@ -9,10 +9,7 @@ import Counter from './components/counter'
 
 export default props =>
     <>
-
-        <Counter></Counter>
-
-
+        <Counter step={1}></Counter>
     </>
 
 
